@@ -9,18 +9,23 @@ $title = "Home";
 
     <div class="row mt-4">
         <div class="col-md-4">
+            <img src="assets/foto/092284800_1730099632-cara-membuat-kliping.jpg" alt="Artikel Terbaru" class="img-fluid mb-3">
             <h3>Artikel Terbaru</h3>
             <p>Selalu up-to-date dengan artikel terkini yang mencakup berbagai topik menarik dan informatif.</p>
         </div>
         <div class="col-md-4">
+            <img src="assets/foto/pexels-agung-pandit-wiguna-3401403.webp" alt="Program Edukasi" class="img-fluid mb-3">
             <h3>Program Edukasi</h3>
             <p>Bergabunglah dengan program edukasi kami dan tingkatkan keterampilan Anda di bidang yang Anda minati.</p>
         </div>
         <div class="col-md-4">
+            <img src="assets/foto/078156100_1608377138-pexels-pixabay-53958.jpg" alt="Komunitas" class="img-fluid mb-3">
             <h3>Komunitas</h3>
             <p>Terhubung dengan komunitas dan temukan orang-orang dengan minat yang sama.</p>
         </div>
     </div>
 </div>
+
+
 
 
