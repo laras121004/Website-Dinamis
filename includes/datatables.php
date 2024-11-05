@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,6 +12,7 @@
     <!-- Include DataTables JS -->
     <script src="https://cdn.datatables.net/2.1.8/js/dataTables.js"></script>
 </head>
+
 <body>
 
     <h2>Employee Data</h2>
@@ -111,4 +113,21 @@
                 <td>Office Manager</td>
                 <td>London</td>
                 <td>30</td>
-                <td>2008-12-19</td
+                <td>2008-12-19</td </tr>
+
+        </tbody>
+    </table>
+    </main>
+
+    <footer>
+        Pemrograman Web 1 @ 2024
+    </footer>
+
+    <script>
+        $(document).ready(function () {
+            $('#example').DataTable();
+        });
+    </script>
+</body>
+
+</html>
